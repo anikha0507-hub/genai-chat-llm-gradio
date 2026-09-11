@@ -4,6 +4,8 @@
 To design and deploy a "Chat with LLM" application by leveraging the Gradio Blocks UI framework to create an interactive interface for seamless user interaction with a large language model.
 
 ### PROBLEM STATEMENT:
+To develop and deploy a “Chat with LLM” application that enables users to interact with a Large Language Model through natural-language conversations. The system should use the Gradio Blocks framework to create an interactive and user-friendly interface for sending queries, receiving model-generated responses, and evaluating the application.
+
 
 ### DESIGN STEPS:
 
